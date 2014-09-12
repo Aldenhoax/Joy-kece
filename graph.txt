@@ -1,0 +1,119 @@
+{
+   "id": "100000812233307",
+   "birthday": "08/31",
+   "education": [
+      {
+         "school": {
+            "id": "152040961555292",
+            "name": "SMK Negeri 2 Cimahi"
+         },
+         "type": "High School"
+      },
+      {
+         "concentration": [
+            {
+               "id": "109986992410300",
+               "name": "RPL"
+            }
+         ],
+         "school": {
+            "id": "394341663968642",
+            "name": "SMK Negeri 2 Cimahi"
+         },
+         "type": "College"
+      }
+   ],
+   "email": "ferdhika31\u0040fbi.al",
+   "favorite_athletes": [
+      {
+         "id": "104315563071",
+         "name": "Anti Persija"
+      },
+      {
+         "id": "260033254027409",
+         "name": "JENGKOLER'S  MANIA"
+      }
+   ],
+   "favorite_teams": [
+      {
+         "id": "190696657610020",
+         "name": "PERSIB IS MY LIFE"
+      },
+      {
+         "id": "175137103315",
+         "name": "Persib"
+      },
+      {
+         "id": "61529725350",
+         "name": "Persebaya dan Bonekmania"
+      },
+      {
+         "id": "152613924780587",
+         "name": "\uff2a\uff25\uff2d\uff30\uff2f\uff2c\uff25\uff32'\uff33  \uff26\uff21\uff23\uff25\uff22\uff2f\uff2f\uff2b  \uff2d\uff21\uff2e\uff29\uff21"
+      },
+      {
+         "id": "207536375939783",
+         "name": "BOBOTOH TASIKMALAYA"
+      },
+      {
+         "id": "156201694464620",
+         "name": "Info Seputar Sepak  Bola Indonesia"
+      },
+      {
+         "id": "225056177513454",
+         "name": "baru saja melalui hati \u2665"
+      },
+      {
+         "id": "242614312428759",
+         "name": "BONEK S1NYAL WANI (untuk INDONESIA)"
+      },
+      {
+         "id": "109263012509853",
+         "name": "BOBODORAN  BOBOTOH ONLINE"
+      },
+      {
+         "id": "242019109182192",
+         "name": "PERSIB BANDUNG UP DATE"
+      },
+      {
+         "id": "216715285040750",
+         "name": "Timnas Persahabatan"
+      }
+   ],
+   "first_name": "F\u00eardh\u00eek\u00e2",
+   "gender": "male",
+   "hometown": {
+      "id": "111923455498628",
+      "name": "Tadi"
+   },
+   "interested_in": [
+      "female"
+   ],
+   "last_name": "Y\u00fbd\u00eer\u00e2",
+   "link": "http://www.facebook.com/ferdhika31",
+   "location": {
+      "id": "109405789077251",
+      "name": "Sini, Jharkhand"
+   },
+   "locale": "id_ID",
+   "mobile_phone": "+6283821708285",
+   "name": "F\u00eardh\u00eek\u00e2 Y\u00fbd\u00eer\u00e2",
+   "relationship_status": "In a relationship",
+   "religion": "\u0625\u0634\u0644\u0645 (Islam)",
+   "significant_other": {
+      "id": "",
+      "name": ""
+   },
+   "sports": [
+      {
+         "id": "109328389085114",
+         "name": "Association football"
+      }
+   ],
+   "quotes": "Saat sukses, orang2 akan tahu siapa kita yg sebenarnya. Saat susah, kita akan tahu siapa sahabat yg sebenarnya.",
+   "timezone": 7,
+   "updated_time": "2014-06-29T11:21:31+0000",
+   "username": "ferdhika31",
+   "verified": true,
+   "website": "http://gplus.to/username\r\nhttp://official.3owl.com"
+}

@@ -1,0 +1,78 @@
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/hp.curcol.css">
+
+<form name="chatform" id="chatform" role="form" onsubmit="return false;" method="post" >
+<input type="hidden" name="hid-lang" id="hid-lang" value="id"/>
+<input type="hidden" name="hid-rt" id="hid-rt" />
+<input type="hidden" name="hid-srt" id="hid-srt" />
+<div id="chat">
+<div id="title-div" style="height:30px;border:0;">
+<div id="title">
+<div id="title-cell" style="vertical-align:middle;color:#ffffff;padding:7px 0px 0px 0px;">
+<a href="/friend_list.htm" onclick="_gaq.push(['_trackEvent','SimsimiTalk','BackBtn','en-US,en;q=0.5']);" target="_top">
+
+<span id="backward" class="backward"></span></a>
+<b>Curhat Colongan</b>
+</div>
+</div>
+</div>
+
+
+<div id="msgs" class="contents_wrap" style="background:url('gambar/talk_bg.png');min-height:265px">
+
+
+
+<a id="teach-btn-a" href="/teach.htm" onclick="_gaq.push(['_trackEvent','SimsimiTalk','TeachBtn','en-US,en;q=0.5']);" target="_top">
+
+<div id='img-teach-btn'></div></a>
+<div class='go_quotesedit' style="background:url('http://media.simsimi.com/images/quotes_edit.png');width:41px;height:41px;background-size:41px 41px;position:absolute;z-index:10;right:54px;bottom:3px;cursor:pointer;" ></div>
+<table class="new-templete" id="simsimi-tem">
+<tr>
+<td class="bot" style="position:relative">
+<div class="img-bot" style="margin-left:5px;"onclick="_gaq.push(['_trackEvent','SimsimiTalk','SimSimiIcon','id']);"></div>
+<div style="float:left;">
+
+<div class="left-convo" onclick="_gaq.push(['_trackEvent','SimsimiTalk','Reponse','id']);">Halo kak, apa kabar??</div>
+
+</td>
+
+</tr>
+</table>
+
+
+</div>
+<div class="control-groups" id="chat-bottom" style="background-color:#ffffff;border-top:1px solid #e2e7e6;border-bottom:1px solid #e2e7e6;">
+<div class="input-group" id="chat-area" style="margin:0px 0px 0px 0px;">
+<input type="text" name="userInputChat" id="userInput_chat" class="form-control">
+
+<a href="/emoticongames.htm" onclick="_gaq.push(['_trackEvent', 'EmoticonGame', 'IconOn', '/talk.htm']);" target="_top">
+
+<div id="game_btn" class="icon_btn_off" ></div>
+</a>
+<span class="btn btn-default input-group-addon" id="chatbtn" style="background-color:#32353f;color:#ffffff">Kirim</span>
+</div>
+</div>
+
+
+
+
+
+
+<div id="menu">
+<div id="talk-li_highlight">
+<a id="talk-btn" class="btn" href="/friend_list.htm" target="_top" onclick="_gaq.push(['_trackEvent','Navigation','TalkMenu','en-US,en;q=0.5']);"><div id="img_talk_active"></div>Pembicaraan</a>
+</div>
+<div id="teach-li">
+<a id="teach-btn" class="btn" href="/feeds.htm" target="_top" onclick="_gaq.push(['_trackEvent','Navigation','FeedsMenu','en-US,en;q=0.5']);"><div id="img_feeds"></div>Kabar Berita</a>
+</div>
+<div id="chatting_games-li">
+<a id="chatting_games-btn" class="btn" href="/talk_games_menu.htm" target="_top" onclick="_gaq.push(['_trackEvent','Navigation','GameMenu','en-US,en;q=0.5']);"><div id="img_chatting_games"></div>permainan</a>
+</div>
+<div id="settings-li">
+<a id="settings-btn" class="btn" href="/settings.htm" target="_top" onclick="_gaq.push(['_trackEvent','Navigation','SettingsMenu','en-US,en;q=0.5']);"><div id="img_settings"></div>Pengaturan</a>
+</div>
+</div>
+
+
+</div>
+</form>
